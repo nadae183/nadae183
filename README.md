@@ -12,7 +12,7 @@ I'm currently building my expertise with the following languages and tools:
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Programming Languages** | Python, C, C++, HTML |
+| **Programming Languages** | Python, C, C++, HTML, CSS |
 | **Database & Analytics** | SQL, SQL Server, Excel, Basic Statistics |
 | **Foundational Concepts**| Algorithms, Data Structures, Database Management |
 
@@ -26,7 +26,8 @@ I'm actively working on projects to apply my learning. Here are a few examples s
 * * **[Online-Food-Shop UI](https://github.com/nadae183/Online-Food-Shop):** A foundational project showcasing UI/UX implementation using standard HTML/CSS.
 * **Python Project Portfolio:** A collection of Python applications, including:
     * **[MAIN MENU](https://github.com/nadae183/Python-Main-Menu-App)** (Demonstrating user interaction and flow control).
-    * **CLASS EMPLOYEE** (Focusing on Object-Oriented Programming concepts).
+   * **[CLASS EMPLOYEE](https://github.com/nadae183/Python-Employee-Class-OOP)** (Focusing on Object-Oriented Programming concepts).
+    * **[RESTAURANT System](https://github.com/nadae183/Python-Restaurant-Class-App)** (Demonstrates OOP principles with menu and order Classes).
     * **CALCULATOR** (A utility project to practice logic and functions).
 
 
