@@ -23,7 +23,7 @@ I'm currently building my expertise with the following languages and tools:
 I'm actively working on projects to apply my learning. Here are a few examples showcasing my foundational skills:
 
 * **Web Interface Project:** A foundational project showcasing UI/UX implementation using standard HTML/CSS.
-* **C/C++ Project: Class Management System:** A console application built with C/C++ to manage class data and demonstrate core programming logic and data handling.
+* **C/C++ Project: [Class Management System](https://github.com/nadae183/Class-Management-System-C)
 * **Python Project Portfolio:** A collection of Python applications, including:
     * **MAIN MENU** (Demonstrating user interaction and flow control).
     * **CLASS EMPLOYEE** (Focusing on Object-Oriented Programming concepts).
