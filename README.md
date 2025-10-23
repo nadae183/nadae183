@@ -25,7 +25,7 @@ I'm actively working on projects to apply my learning. Here are a few examples s
 * **C/C++ Project: [Class Management System](https://github.com/nadae183/Class-Management-System-C):** A console application built with C/C++ to manage class data and demonstrate core programming logic and data handling.
 * * **[Online-Food-Shop UI](https://github.com/nadae183/Online-Food-Shop):** A foundational project showcasing UI/UX implementation using standard HTML/CSS.
 * **Python Project Portfolio:** A collection of Python applications, including:
-    * **MAIN MENU** (Demonstrating user interaction and flow control).
+    * **[MAIN MENU](https://github.com/nadae183/Python-Main-Menu-App)** (Demonstrating user interaction and flow control).
     * **CLASS EMPLOYEE** (Focusing on Object-Oriented Programming concepts).
     * **CALCULATOR** (A utility project to practice logic and functions).
 
