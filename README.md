@@ -21,8 +21,7 @@ I'm currently building my expertise with the following languages and tools:
 ## 🌟 Projects Highlights
 
 I'm actively working on projects to apply my learning. Here are a few examples showcasing my foundational skills:
-
-* **[ENCODEX]([https://nadae183.github.io/ENCODEX/Encodex/index.html]):** An educational cryptography platform built to visualize and explore encryption algorithms.
+* **[ENCODEX](https://nadae183.github.io/ENCODEX/Encodex/index.html):** An educational cryptography platform built to visualize and explore encryption algorithms.
 
 * **C/C++ Project: [Class Management System](https://github.com/nadae183/Class-Management-System-C):** A console application built with C/C++ to manage class data and demonstrate core programming logic and data handling.
 * * **[Online-Food-Shop UI](https://github.com/nadae183/Online-Food-Shop):** A foundational project showcasing UI/UX implementation using standard HTML/CSS.
